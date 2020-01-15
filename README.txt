@@ -14,4 +14,4 @@ University of Sevilla. This project provides a template our students can use to 
 up and running very quickly.
 
 Proyect group: 90
-Collaborators: Juan Pablo Portero Montaño, Francisco Javier García Roales, Gonzalo Fernandez de la Torre
+Collaborators: Gonzalo Fernandez de la Torre
