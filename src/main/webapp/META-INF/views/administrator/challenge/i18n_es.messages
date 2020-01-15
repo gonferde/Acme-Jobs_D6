@@ -1,0 +1,30 @@
+administrator.challenge.list.label.title= Título
+administrator.challenge.list.label.deadLine= Fecha límite
+administrator.challenge.list.label.description= Descripcion
+administrator.challenge.list.label.goldGoal= Meta Oro
+administrator.challenge.list.label.goldReward= Premio Oro
+administrator.challenge.list.label.silverGoal= Meta Plata
+administrator.challenge.list.label.silverReward= Premio Plata
+administrator.challenge.list.label.bronzeGoal= Meta Bronce
+administrator.challenge.list.label.bronzeReward= Premio Bronce
+
+
+administrator.challenge.form.label.title= Título:
+administrator.challenge.form.label.deadline= Fecha límite:
+administrator.challenge.form.label.description= Descripcion: 
+administrator.challenge.form.label.goldGoal= Meta Oro:
+administrator.challenge.form.label.goldReward= Premio Oro:
+administrator.challenge.form.label.silverGoal= Meta Plata:
+administrator.challenge.form.label.silverReward= Premio Plata:
+administrator.challenge.form.label.bronzeGoal= Meta Bronce:
+administrator.challenge.form.label.bronzeReward= Premio Bronce:
+administrator.challenge.form.label.sure =¿Seguro de que quieres crear este reto?
+
+administrator.challenge.error.euros= La moneda debe ser Euro
+administrator.challenge.error.negative= La cantidad debe ser mayor que 0
+
+administrator.challenge.form.button.update = Actualizar
+administrator.challenge.form.button.delete = Borrar
+administrator.challenge.form.button.create = Crear
+
+administrator.challenge.form.button.return= Volver

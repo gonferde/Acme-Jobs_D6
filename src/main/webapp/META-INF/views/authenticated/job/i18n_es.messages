@@ -1,0 +1,18 @@
+authenticated.job.list.label.referenceNumber = Número de referencia
+authenticated.job.list.label.status = Estado
+authenticated.job.list.label.title = Título
+authenticated.job.list.label.deadline = Fecha límite
+authenticated.job.list.label.salary = Salario
+authenticated.job.list.label.moreInfo = Más información
+
+authenticated.job.form.label.referenceNumber = Número de referencia:
+authenticated.job.form.label.status = Estado:
+authenticated.job.form.label.title = Título:
+authenticated.job.form.label.deadline = Fecha límite:
+authenticated.job.form.label.salary = Salario:
+authenticated.job.form.label.moreInfo = Más información:
+authenticated.job.form.label.descriptor = Descriptor
+authenticated.job.form.label.descriptor.description = Descripción:
+authenticated.job.form.label.dutyButton = Tareas
+
+authenticated.job.form.button.return = Volver

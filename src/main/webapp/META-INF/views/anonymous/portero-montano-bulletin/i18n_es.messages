@@ -1,0 +1,21 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+anonymous.portero-montano-bulletin.list.label.description = Descripción
+anonymous.portero-montano-bulletin.list.label.product = Producto
+anonymous.portero-montano-bulletin.list.label.dateOfExpiry = Fecha de caducidad
+
+anonymous.portero-montano-bulletin.form.label.product = Producto:
+anonymous.portero-montano-bulletin.form.label.description = Descripcion:
+anonymous.portero-montano-bulletin.form.button.create = Bulletin
+anonymous.portero-montano-bulletin.form.button.return = Volver
+anonymous.portero-montano-bulletin.label.product = nuevo producto	
+anonymous.portero-montano-bulletin.label.description = nueva descripcion
+anonymous.portero-montano-bulletin.label.dateOfExpiry = Fecha de caducidad

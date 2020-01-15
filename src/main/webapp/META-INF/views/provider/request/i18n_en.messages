@@ -1,0 +1,14 @@
+provider.request.form.label.title = Title:
+provider.request.form.label.deadline = Deadline:
+provider.request.form.label.text = Description:
+provider.request.form.label.reward = Reward:
+provider.request.form.label.ticker = Ticker:
+provider.request.form.label.confirm = Confirmation
+provider.request.form.button.create = Create
+provider.request.form.button.return = Return
+
+provider.request.error.confirmed = You must confirm the creation
+provider.request.error.duplicated = This ticker already exists
+provider.request.error.currency = Money currency must be EUR
+provider.request.error.amount = Money amount must be positive
+provider.request.error.deadline = The deadline must be after the current date

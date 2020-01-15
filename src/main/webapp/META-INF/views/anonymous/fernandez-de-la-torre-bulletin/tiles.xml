@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+- tiles.xml
+-->
+
+<!DOCTYPE tiles-definitions PUBLIC 
+	"-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN" 
+	"http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+
+	<definition name="anonymous/fernandez-de-la-torre-bulletin/form" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/fernandez-de-la-torre-bulletin/form.jsp" />
+	</definition>
+
+	<definition name="anonymous/fernandez-de-la-torre-bulletin/list" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/fernandez-de-la-torre-bulletin/list.jsp" />
+	</definition>
+
+</tiles-definitions>

@@ -1,0 +1,31 @@
+administrator.challenge.list.label.title= Title
+administrator.challenge.list.label.deadLine= Deadline
+administrator.challenge.list.label.description= Description
+administrator.challenge.list.label.goldGoal= Gold Goal
+administrator.challenge.list.label.goldReward= Gold Reward
+administrator.challenge.list.label.silverGoal= Silver Goal
+administrator.challenge.list.label.silverReward= Silver Reward
+administrator.challenge.list.label.bronzeGoal= Bronze Goal
+administrator.challenge.list.label.bronzeReward= Bronze Reward
+
+
+administrator.challenge.form.label.title= Title:
+administrator.challenge.form.label.deadline= Deadline:
+administrator.challenge.form.label.description= Description: 
+administrator.challenge.form.label.goldGoal= Gold Goal:
+administrator.challenge.form.label.goldReward= Gold Reward:
+administrator.challenge.form.label.silverGoal= Silver Goal:
+administrator.challenge.form.label.silverReward= Silver Reward:
+administrator.challenge.form.label.bronzeGoal= Bronze Goal:
+administrator.challenge.form.label.bronzeReward= Bronze Reward:
+administrator.challenge.form.label.sure = Are you sure you want to create this challenge?
+
+administrator.challenge.error.euros= The currency must be euros
+administrator.challenge.error.negative = The amount must be bigger than 0
+
+administrator.challenge.form.button.update = Update
+administrator.challenge.form.button.delete = Delete
+administrator.challenge.form.button.create = Create
+
+
+administrator.challenge.form.button.return= Return

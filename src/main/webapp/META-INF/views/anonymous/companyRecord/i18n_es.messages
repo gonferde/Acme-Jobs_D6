@@ -1,0 +1,21 @@
+anonymous.companyRecord.form.label.companyName = Empresa:
+anonymous.companyRecord.form.label.sector = Sector:
+anonymous.companyRecord.form.label.ceo = CEO:
+anonymous.companyRecord.form.label.description = Descripción:
+anonymous.companyRecord.form.label.url = URL:
+anonymous.companyRecord.form.label.phone = Teléfono:
+anonymous.companyRecord.form.label.email = Email:
+anonymous.companyRecord.form.label.incorporated = ¿Está incorporado?
+anonymous.companyRecord.form.label.stars = Estrellas:
+anonymous.companyRecord.form.button.return = Volver
+
+
+anonymous.companyRecord.list.label.companyName = Empresa
+anonymous.companyRecord.list.label.sector = Sector
+anonymous.companyRecord.list.label.ceo = CEO
+anonymous.companyRecord.list.label.description = Descripción
+anonymous.companyRecord.list.label.url = URL
+anonymous.companyRecord.list.label.phone = Teléfono
+anonymous.companyRecord.list.label.email = Email
+anonymous.companyRecord.list.label.incorporated = ¿Está incorporado?
+anonymous.companyRecord.list.label.stars = Estrellas

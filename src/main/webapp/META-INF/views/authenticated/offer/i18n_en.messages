@@ -1,0 +1,16 @@
+authenticated.offer.list.label.title = Title
+authenticated.offer.list.label.moment = Moment
+authenticated.offer.list.label.deadline = Deadline
+authenticated.offer.list.label.text = Description
+authenticated.offer.list.label.minReward = Minimum reward
+authenticated.offer.list.label.maxReward = Maximum reward
+authenticated.offer.list.label.ticker = Ticker
+
+authenticated.offer.form.label.title = Title
+authenticated.offer.form.label.moment = Moment
+authenticated.offer.form.label.deadline = Deadline
+authenticated.offer.form.label.text = Description
+authenticated.offer.form.label.minReward = Minimum reward
+authenticated.offer.form.label.maxReward = Maximum reward
+authenticated.offer.form.label.ticker = Ticker
+authenticated.offer.form.button.return = Return

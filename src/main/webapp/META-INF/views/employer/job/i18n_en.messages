@@ -1,0 +1,34 @@
+employer.job.list.label.referenceNumber = Reference number
+employer.job.list.label.status = Status
+employer.job.list.label.title = Title
+employer.job.list.label.deadline = Deadline
+employer.job.list.label.salary = Salary
+employer.job.list.label.moreInfo = More information
+
+employer.job.list.button.return = Return
+
+employer.job.form.label.referenceNumber = Reference number:
+employer.job.form.label.status = Status:
+employer.job.form.label.status.draft = Draft
+employer.job.form.label.status.published = Published
+employer.job.form.label.title = Title:
+employer.job.form.label.deadline = Deadline:
+employer.job.form.label.salary = Salary:
+employer.job.form.label.moreInfo = More information:
+employer.job.form.label.descriptor = Descriptor
+employer.job.form.label.descriptor.description = Description:
+
+employer.job.form.label.dutyButton = Duties
+employer.job.form.label.createDuty = Create duty
+
+employer.job.form.button.create = Create
+employer.job.form.button.update = Update
+employer.job.form.button.delete = Delete
+employer.job.form.button.return = Return
+
+employer.job.error.spam = Contains too many spam words
+employer.job.error.label.unique = The reference number you tried to use is already taken
+employer.job.error.label.percentageTime = A Job cannot be saved as "published" unless the duties sum up to 100% the weekly workload
+employer.job.error.label.deadline = The deadline must be in the future
+employer.job.error.label.salary-currency = Currency must be "EUR" or "€"
+employer.job.error.label.salary-amount = Salary must be greater than or equal to 0

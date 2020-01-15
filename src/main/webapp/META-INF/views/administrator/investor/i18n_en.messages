@@ -1,0 +1,16 @@
+administrator.investor.list.label.name= Name
+administrator.investor.list.label.sector= Sector
+administrator.investor.list.label.statement = Statement
+administrator.investor.list.label.stars= Stars
+
+administrator.investor.form.label.name= Name:
+administrator.investor.form.label.sector= Sector:
+administrator.investor.form.label.statement= Statement:
+administrator.investor.form.label.stars= Stars:
+
+
+administrator.investor.form.button.return= Return
+administrator.investor.form.button.update = Update
+administrator.investor.form.button.delete = Delete
+administrator.investor.form.button.create = Create
+

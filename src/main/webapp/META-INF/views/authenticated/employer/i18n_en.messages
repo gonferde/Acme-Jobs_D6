@@ -1,0 +1,9 @@
+authenticated.employer.form.title.create = Become an employer
+authenticated.employer.form.title.update = Update your employer data
+
+authenticated.employer.form.label.companyName = Company name:
+authenticated.employer.form.label.activitySector = Activity sector:
+
+authenticated.employer.form.button.create = Register
+authenticated.employer.form.button.update = Update
+authenticated.employer.form.button.return = Return

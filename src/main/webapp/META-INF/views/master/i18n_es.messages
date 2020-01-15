@@ -1,0 +1,138 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+# master.banner.welcome #######################################################
+
+master.banner.background = #FFE97F 
+
+﻿# master.welcome ##############################################################
+
+master.welcome.title = ¡Bienvenidos!
+master.welcome.text = \
+	Bienvenidos a Acme-Jobs!
+
+# master.menu #################################################################
+
+master.menu.home = Inicio
+master.menu.sign-up = Registrarse
+master.menu.sign-in = Entrar
+master.menu.sign-out = Salir
+
+# master.menu.anonymous #######################################################
+
+master.menu.anonymous = Anónimo
+master.menu.anonymous.favourite-link-juapormon = Link favorito de Juapormon
+master.menu.anonymous.favourite-link-fragarroa = Link favorito de Fragarroa
+master.menu.anonymous.favourite-link-gonferde = Link favorito de Gonferde
+master.menu.anonymous.portero-montano-bulletin-list = Bulletin lista Portero Montaño
+master.menu.anonymous.portero-montano-bulletin-create = Bulletin crear Portero Montaño
+master.menu.anonymous.garcia-roales-bulletin-list = Bulletin lista Garcia Roales
+master.menu.anonymous.garcia-roales-bulletin-create = Bulletin crear Garcia Roales
+master.menu.anonymous.fernandez-de-la-torre-bulletin-list = Bulletin lista Fernandez de la Torre
+master.menu.anonymous.fernandez-de-la-torre-bulletin-create = Bulletin crear Fernandez de la Torre
+master.menu.anonymous.investor = Inversores
+master.menu.anonymous.announcement.list = Anuncios
+master.menu.anonymous.companyRecord.list = Registros de compañías
+
+# master.menu.authenticated ###################################################
+
+master.menu.authenticated = Autentificado
+master.menu.authenticated.request = Solicitudes
+master.menu.authenticated.offer = Ofertas
+master.menu.authenticated.investor = Inversores
+master.menu.authenticated.challenge = Retos
+master.menu.authenticated.announcement = Anuncios
+master.menu.authenticated.companyRecord = Registros de compañías
+master.menu.authenticated.job-list = Listado de trabajos
+
+# master.menu.administrator ###################################################
+
+master.menu.administrator = Administrador
+master.menu.administrator.user-accounts = Cuentas de usuario
+master.menu.administrator.shutdown = Parar el sistema
+master.menu.administrator.announcement.list = Lista anuncios
+master.menu.administrator.announcement.create = Crear anuncio
+master.menu.administrator.investor.list= Lista inversores
+master.menu.administrator.investor.create= Crear inversor
+master.menu.administrator.challenge.list = Lista retos
+master.menu.administrator.challenge.create = Crear reto
+master.menu.administrator.companyRecord.list = Lista registros de compañías
+master.menu.administrator.companyRecord.create = Crear registros de compañías
+
+# master.menu.provider ########################################################
+
+master.menu.provider = Proveedor
+master.menu.provider.request.create = Crear petición
+
+# master.menu.consumer ##########################################################
+
+master.menu.consumer = Consumidor
+master.menu.consumer.offer.create = Crear oferta
+
+# master.menu.worker ##############################################################
+
+master.menu.worker = Trabajador
+master.menu.worker.application.list = Lista de aplicaciones
+master.menu.worker.job.list = Lista de trabajos - puede aplicar desde aqui
+
+# master.menu.employer ##############################################################
+
+master.menu.employer = Empleador
+master.menu.employer.job.list = Lista de trabajos
+master.menu.employer.application.list = Lista de aplicaciones
+master.menu.employer.job.create = Crear trabajo
+
+# master.menu.user-account ####################################################
+
+master.menu.user-account = Cuenta
+master.menu.user-account.general-data = Datos generales
+master.menu.user-account.provider = Datos de proveedor
+master.menu.user-account.become-provider = Hazte proveedor
+master.menu.user-account.consumer = Datos de consumidor
+master.menu.user-account.become-consumer = Hazte consumidor
+master.menu.user-account.employer = Datos de empleador
+master.menu.user-account.become-employer = Hazte empleador
+master.menu.user-account.worker = Datos de trabajador
+master.menu.user-account.become-worker = Hazte trabajador
+
+# master.footer ###############################################################
+
+master.footer.title.about = Nosotros
+master.footer.label.company = La empresa
+master.footer.label.license = Licencia
+master.footer.title.social = Social
+master.footer.label.linked-in = Linked-In
+master.footer.label.twitter = Twitter
+master.footer.title.languages = Lenguages
+master.footer.label.english = Inglés
+master.footer.label.spanish = Español
+
+# master.company ##############################################################
+
+master.company.title = La compañía de Acme-Jobs
+master.company.text = \
+	Acme-Jobs, Inc. Made by: proyect group 90
+master.company.name = Acme-Jobs, Inc.
+master.company.address = 2 Pino Pudio, Sevilla, Andalucia, España
+master.company.phone = +34 630674998
+master.company.email = fragarroa@alum.us.es
+
+# master.license ##############################################################
+
+master.license.title = Licencia
+master.license.text = \
+	Puede usar este sistema de forma completamente gratuita respetando las leyes \
+	que sean aplicables.  No compartimos ninguna información sobre Ud. con ninguna \
+	otra empresa.  Tan sólo usamos tres cookies, a saber: "JSESSIONID" para identificar \
+	su sesión de trabajo, "remember" para mantener su información de autentificación \
+	durante un máximo de 31 días y "language" para almacenar sus preferencias de \
+	lenguage.  Además, almacenamos un ítem llamado "returnStack" en el almacenamiento \
+	local de su navegador para saber dónde tienen que ir algunos botones.
+	

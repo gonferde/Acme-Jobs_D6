@@ -1,0 +1,28 @@
+worker.application.list.label.referenceNumber = Número de referencia
+worker.application.list.label.creationMoment = Momento de creación
+worker.application.list.label.status = Estado
+worker.application.list.label.statement = Declaración
+worker.application.list.label.skills = Habilidades
+worker.application.list.label.qualifications = Cualidades
+
+worker.application.form.label.referenceNumber = Número de referencia:
+worker.application.form.label.creationMoment = Momento de creación:
+worker.application.form.label.status = Estado:
+worker.application.form.label.statement = Declaración:
+worker.application.form.label.skills = Habilidades:
+worker.application.form.label.qualifications = Cualidades:
+worker.application.form.label.jobButton = Trabajo
+worker.application.form.button.return = Volver
+
+worker.job.list.label.title= Titulo
+worker.job.list.label.referenceNumber= Numero de referencia 
+worker.job.list.label.deadline= Fecha limite
+
+worker.job.form.label.referenceNumber= Numero de referencia
+worker.job.form.label.status= Estado
+worker.job.form.label.title= Titulo
+worker.job.form.label.deadline= Fecha limite
+worker.job.form.label.salary= Salario
+worker.job.form.label.moreInfo= Mas informacion
+worker.job.form.button.apply= Aplicar
+worker.job.form.button.return = Volver

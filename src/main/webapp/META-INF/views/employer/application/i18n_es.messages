@@ -1,0 +1,23 @@
+employer.application.form.label.referenceNumber = Número Referencia:
+employer.application.form.label.creationMoment = Momento Creación:
+employer.application.form.label.status = Estado:
+employer.application.form.label.statement = Instanciación:
+employer.application.form.label.skills = Habilidades:
+employer.application.form.label.qualifications = Calificaciones:
+employer.application.form.button.return = Return
+employer.application.form.label.RejectedJustification = Justificación de denegación:
+employer.application.form.button.update = modificar
+
+employer.application.form.label.status.accept = aceptar
+employer.application.form.label.status.reject = denegar
+employer.application.form.label.status.equal = pendiente
+
+employer.application.list.label.referenceNumber = Número Referencia
+employer.application.list.label.creationMoment = Momento Creación
+employer.application.list.label.status = Estado
+employer.application.list.label.statement = Instanciación
+employer.application.list.label.skills = Habilidades
+employer.application.list.label.qualifications = Calificaciones
+employer.application.list.label.RejectedJustification = Justificación de denegación
+
+employer.application.error.label.RejectedJustification = la solicitud debe ser denegada por algún motivo

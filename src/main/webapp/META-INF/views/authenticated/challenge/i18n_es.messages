@@ -1,0 +1,21 @@
+authenticated.challenge.list.label.title = Titulo
+authenticated.challenge.list.label.description = Descripcion
+authenticated.challenge.list.label.deadLine = Fecha limite
+authenticated.challenge.list.label.goldGoal = Meta Oro
+authenticated.challenge.list.label.goldReward = Premio Oro
+authenticated.challenge.list.label.silverGoal = Meta Plata
+authenticated.challenge.list.label.silverReward = Premio Plata
+authenticated.challenge.list.label.bronzeGoal = Meta Bronce
+authenticated.challenge.list.label.bronzeReward = Premio Bronce
+
+authenticated.challenge.form.label.title = Titulo:
+authenticated.challenge.form.label.description = Descripcion:
+authenticated.challenge.form.label.deadLine = Fecha limite:
+authenticated.challenge.form.label.goldGoal = Meta Oro:
+authenticated.challenge.form.label.goldReward = Premio Oro:
+authenticated.challenge.form.label.silverGoal = Meta Plata:
+authenticated.challenge.form.label.silverReward = Premio Plata:
+authenticated.challenge.form.label.bronzeGoal = Meta Bronce:
+authenticated.challenge.form.label.bronzeReward = Premio Bronce:
+
+authenticated.challenge.form.button.return = Volver

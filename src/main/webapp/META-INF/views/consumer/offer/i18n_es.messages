@@ -1,0 +1,18 @@
+consumer.offer.form.labbel.title = Título:
+consumer.offer.form.labbel.moment = Momento:
+consumer.offer.form.labbel.deadline = Fecha límite:
+consumer.offer.form.label.text = Descripción:
+consumer.offer.form.panel.reward = Recompensa
+consumer.offer.form.labbel.minReward = Recompensa mínima:
+consumer.offer.form.labbel.maxReward = Recompensa máxima:
+consumer.offer.form.labbel.ticker = Identificador:
+consumer.offer.form.label.confirm = Confirmación
+consumer.offer.form.button.return = Volver
+consumer.offer.form.button.create = Crear
+
+provider.request.error.confirmed = Debe confirmar la creación
+provider.request.error.duplicated = Este código ya existe
+provider.request.error.currency = La recompensa debe estar en EUR
+provider.request.error.amount = La cantidad de dinero debe ser positiva
+consumer.offer.error.bigger = La recompensa máxima debe ser mayor que la recompensa mínima
+provider.request.error.deadline = La fecha límite debe ser posterior a la fecha actual

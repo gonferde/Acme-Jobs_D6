@@ -1,0 +1,11 @@
+authenticated.announcement.list.label.moment= Momento
+authenticated.announcement.list.label.title= Título
+authenticated.announcement.list.label.moreInfo= URL
+authenticated.announcement.list.label.text= Descripción
+
+authenticated.announcement.form.label.title= Título:
+authenticated.announcement.form.label.moment= Momento:
+authenticated.announcement.form.label.moreInfo= URL: 
+authenticated.announcement.form.label.text= Descripción:
+
+authenticated.announcement.form.button.return= Volver

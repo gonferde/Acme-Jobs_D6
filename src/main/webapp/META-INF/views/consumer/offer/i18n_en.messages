@@ -1,0 +1,18 @@
+consumer.offer.form.label.title = Title:
+consumer.offer.form.label.moment = Moment:
+consumer.offer.form.label.deadline = Deadline:
+consumer.offer.form.label.text = Description:
+consumer.offer.form.panel.reward = Reward
+consumer.offer.form.label.minReward = Minimum reward:
+consumer.offer.form.label.maxReward = Maximum reward:
+consumer.offer.form.label.ticker = Ticker:
+consumer.offer.form.label.confirm = Confirmation
+consumer.offer.form.button.return = Return
+consumer.offer.form.button.create = Create
+
+consumer.offer.error.confirmed = You must confirm the creation
+consumer.offer.error.duplicated = This ticker already exists
+consumer.offer.error.currency = Money currency must be EUR
+consumer.offer.error.amount = Money amount must be positive
+consumer.offer.error.bigger = The maximum reward must be bigger than the minimum reward
+consumer.offer.error.deadline = The deadline must be after the current date

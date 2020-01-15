@@ -1,0 +1,19 @@
+employer.duty.list.label.title = Título
+employer.duty.list.label.description = Descripción
+employer.duty.list.label.percentageTime = Porcentaje de tiempo estimado
+
+employer.duty.list.button.return = Volver
+
+employer.duty.form.label.descriptor = Descriptor
+employer.duty.form.label.descriptor.id = Id descriptor:
+employer.duty.form.label.duty = Tarea
+employer.duty.form.label.title = Título:
+employer.duty.form.label.description = Descripción:
+employer.duty.form.label.percentageTime = Porcentaje de tiempo estimado:
+
+employer.duty.form.button.create = Crear
+employer.duty.form.button.delete = Eliminar
+employer.duty.form.button.return = Volver
+
+employer.duty.error.label.percentageTime = No se puede crear la tarea porque sobrepasa el 100% del tiempo del trabajo.
+employer.duty.error.label.jobPublished = No se puede borrar una tarea de un trabajo ya publicado.
